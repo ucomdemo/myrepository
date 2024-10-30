@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{933FC670-D4B4-47FE-96B3-0D7E67159E1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vvext", "src\vvext\vvext.csproj", "{3AB31ECF-E7F3-4EF3-8792-256ABD6F65FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB31ECF-E7F3-4EF3-8792-256ABD6F65FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB31ECF-E7F3-4EF3-8792-256ABD6F65FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB31ECF-E7F3-4EF3-8792-256ABD6F65FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB31ECF-E7F3-4EF3-8792-256ABD6F65FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3AB31ECF-E7F3-4EF3-8792-256ABD6F65FE} = {933FC670-D4B4-47FE-96B3-0D7E67159E1C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F42BCEB-F9EB-4420-9D36-6F2331A779EF}
+	EndGlobalSection
+EndGlobal
